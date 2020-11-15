@@ -1,0 +1,15 @@
+html { 
+    background-color:#f0dbca;
+    text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+font-size: larger;
+}
+p {color: #481D05;}
+span {color: #901B09;}
+h2 {color: #2F4F4F;}
+table {
+    margin: auto;
+}
+.taula {text-align: left;}
+#iva {font-style: italic;
+}
